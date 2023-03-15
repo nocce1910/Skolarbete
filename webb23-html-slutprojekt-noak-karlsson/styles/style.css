@@ -23,7 +23,7 @@ main div a:hover {
 
 /* Inställningar för bakrundsbild startsida */
 #container {
-  background-image: url("noak\ bild.jpg");
+  background-image: url("../img/noak\ bild.jpg");
   background-size: cover;
   margin: 0;
   height: 650px;
@@ -217,7 +217,7 @@ footer {
 .cover-image {
   grid-column: 1 / 2;
   grid-row: 1 / 4;
-  background-image: url('om\ mig.jpg');
+  background-image: url('../img/om\ mig.jpg');
   background-size: cover;
 }
 
